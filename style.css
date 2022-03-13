@@ -14,6 +14,8 @@ body{
 
 
 .bg-img{
-  background-image:url(./img7.gif);
+  background-image:url(./img.gif);
   height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
 }
