@@ -14,8 +14,27 @@ body{
 
 
 .bg-img{
-  background-image:url(./img.gif);
-  height: 100vh;
-  width: 100%;
+  background-image:url(./img0.gif);
   background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+.row{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.time{
+  display: flex;
+  color: #fff;
+  padding-bottom: 10rem;
+  
+}
+
+
+hr{
+  display: inline;
 }
