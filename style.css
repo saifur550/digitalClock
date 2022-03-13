@@ -14,7 +14,7 @@ body{
 
 
 .bg-img{
-  background-image:url(./img0.gif);
+  background-image:url(./img.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -34,7 +34,3 @@ body{
   
 }
 
-
-hr{
-  display: inline;
-}
