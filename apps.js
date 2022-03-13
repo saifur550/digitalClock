@@ -35,7 +35,8 @@ function digitalClock(){
     document.getElementById('timeZone').innerText = finalTime
     document.getElementById('timeFormat').innerText = timeFormat
 
+    setInterval(digitalClock , 1000)
 
 }
 
-setInterval (digitalClock, 1000)
+digitalClock()
